@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="utf-8"?>
+<settings>
+	
+	
+	
+	
+	
+
+	
+	
+	
+	<pusher>
+		
+		
+		
+	<apiKey>32ce60613f1093fd13d7</apiKey><channel>turbulence</channel><event>addItem</event></pusher><clouds>
+		
+		
+		
+		
+		
+		
+		
+		
+	<cloud>
+			
+			
+			
+			
+		<x>92</x><y>48</y><scale>1</scale><velocity>100</velocity></cloud><cloud>
+			
+			
+			
+			
+		<x>1155</x><y>162</y><scale>0.6</scale><velocity>115</velocity></cloud><cloud>
+			
+			
+			
+			
+		<x>645</x><y>248</y><scale>0.3</scale><velocity>110</velocity></cloud><cloud>
+			
+			
+			
+			
+		<x>2574</x><y>48</y><scale>1</scale><velocity>100</velocity></cloud><cloud>
+			
+			
+			
+			
+		<x>3636</x><y>162</y><scale>0.6</scale><velocity>95</velocity></cloud><cloud>
+			
+			
+			
+			
+		<x>4326</x><y>248</y><scale>0.3</scale><velocity>110</velocity></cloud><cloud>
+			
+			
+			
+			
+		<x>4830</x><y>48</y><scale>0.6</scale><velocity>130</velocity></cloud><cloud>
+			
+			
+			
+			
+		<x>5319</x><y>48</y><scale>1</scale><velocity>105</velocity></cloud></clouds><meshes>
+		
+		
+		
+		
+		
+		
+	<projector0>5982 -6 191 -72 532 -60 946 -18 6018 244 191 178 538 172 922 238 6030 512 209 446 532 458 886 452 6048 768 191 708 532 702 850 696</projector0><projector1>844 18 1233 -84 1562 -72 1970 18 880 286 1239 208 1574 208 1940 274 904 482 1251 446 1574 452 1922 500 916 750 1239 714 1580 720 1892 756</projector1><projector2>1886 42 2275 -12 2652 -24 3060 54 1916 298 2281 220 2670 214 3042 316 1934 566 2281 482 2658 470 3054 554 1946 768 2281 738 2664 744 3042 792</projector2><projector3>2838 -90 3341 -150 3790 -156 4246 -84 2892 178 3359 82 3754 88 4138 208 2922 458 3371 368 3724 356 4114 518 2934 750 3371 702 3766 726 4090 786</projector3><projector4>4054 90 4341 12 4682 12 4958 6 4030 334 4341 268 4682 268 5024 268 4060 524 4341 464 4682 488 5024 524 4042 780 4341 732 4682 732 5024 780</projector4><projector5>4982 24 5347 -24 5676 -42 6060 6 5012 334 5365 244 5700 190 6060 226 5036 518 5377 464 5700 482 6060 518 5036 774 5377 732 5694 738 6060 774</projector5></meshes><borders>
+		
+		
+		
+		
+		
+		
+	<projector0>65 81 921 102 1079 717 24 705</projector0><projector1>-1 9 994 30 994 738 -1 765</projector1><projector2>30 30 888 108 887 705 30 738</projector2><projector3>103 102 791 99 1026 765 63 678</projector3><projector4>51 75 994 30 994 738 30 738</projector4><projector5>30 30 952 81 1012 732 30 738</projector5></borders><flyingobjects>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	<item>
+			
+			
+			
+		<image>akibin.png</image><hitsound>bin.wav</hitsound><radius>65</radius></item><item>
+			
+			
+			
+		<image>akibin_2.png</image><hitsound>bin.wav</hitsound><radius>65</radius></item><item>
+			
+			
+			
+		<image>akibin_3.png</image><hitsound>bin.wav</hitsound><radius>65</radius></item><item>
+			
+			
+			
+			
+		<image>akikan.png</image><sound>kan.wav</sound><hitsound>kan.wav</hitsound><radius>65</radius></item><item>
+			
+			
+			
+			
+		<image>akikan_2.png</image><sound>kan.wav</sound><hitsound>kan.wav</hitsound><radius>65</radius></item><item>
+			
+			
+			
+			
+		<image>akikan_3.png</image><sound>kan.wav</sound><hitsound>kan.wav</hitsound><radius>65</radius></item><item>
+			
+			
+			
+			
+		<image>akikan_4.png</image><sound>kan.wav</sound><hitsound>kan.wav</hitsound><radius>65</radius></item><item>
+			
+			
+			
+			
+		<image>couple.png</image><sound>couple.wav</sound><hitsound>couple.wav</hitsound><radius>90</radius></item><item>
+			
+			
+			
+			
+			
+		<image>dosei.png</image><sound>hoshi.wav</sound><hitsound>hoshi2.wav</hitsound><radius>60</radius><density>5</density></item><item>
+			
+			
+			
+			
+			
+		<image>hana_1.png</image><sound>hoshi.wav</sound><hitsound>ha.wav</hitsound><radius>47</radius><density>0.3</density></item><item>
+			
+			
+			
+			
+			
+		<image>hana_2.png</image><sound>hoshi.wav</sound><hitsound>ha.wav</hitsound><radius>40</radius><density>0.3</density></item><item>
+			
+			
+			
+			
+			
+		<image>hana_3.png</image><sound>hoshi.wav</sound><hitsound>ha.wav</hitsound><radius>40</radius><density>0.3</density></item><item>
+			
+			
+			
+			
+			
+		<image>hana_4.png</image><sound>hoshi.wav</sound><hitsound>ha.wav</hitsound><radius>40</radius><density>0.3</density></item><item>
+			
+			
+			
+			
+			
+		<image>hana_5.png</image><sound>hoshi.wav</sound><hitsound>ha.wav</hitsound><radius>40</radius><density>0.3</density></item><item>
+			
+			
+			
+			
+			
+		<image>hana_6.png</image><sound>hoshi.wav</sound><hitsound>ha.wav</hitsound><radius>40</radius><density>0.3</density></item><item>
+			
+			
+			
+			
+			
+		<image>hana_7.png</image><sound>hoshi.wav</sound><hitsound>ha.wav</hitsound><radius>40</radius><density>0.3</density></item><item>
+			
+			
+			
+			
+			
+		<image>hana_8.png</image><sound>hoshi.wav</sound><hitsound>ha.wav</hitsound><radius>40</radius><density>0.3</density></item><item>
+			
+			
+			
+			
+			
+		<image>happa_1.png</image><sound>ha.wav</sound><hitsound>ha.wav</hitsound><radius>30</radius><density>0.3</density></item><item>
+			
+			
+			
+			
+			
+		<image>happa_2.png</image><sound>ha.wav</sound><hitsound>ha.wav</hitsound><radius>31</radius><density>0.3</density></item><item>
+			
+			
+			
+			
+			
+		<image>happa_3.png</image><sound>ha.wav</sound><hitsound>ha.wav</hitsound><radius>50</radius><density>0.3</density></item><item>
+			
+			
+			
+			
+			
+		<image>happa_4.png</image><sound>ha.wav</sound><hitsound>ha.wav</hitsound><radius>37</radius><density>0.3</density></item><item>
+			
+			
+			
+			
+			
+		<image>happa_5.png</image><sound>ha.wav</sound><hitsound>ha.wav</hitsound><radius>35</radius><density>0.3</density></item><item>
+			
+			
+			
+		<image>hikouki.png</image><hitsound>hikouki.wav</hitsound><radius>80</radius></item><item>
+			
+			
+			
+			
+			
+		<image>kareha.png</image><sound>ha.wav</sound><hitsound>ha.wav</hitsound><radius>29</radius><density>0.3</density></item><item>
+			
+			
+			
+		<image>kirabosi.png</image><sound>hoshi.wav</sound><hitsound>hoshi2.wav</hitsound></item><item>
+			
+			
+			
+			
+		<image>kuruma.png</image><sound>car.wav</sound><hitsound>car2.wav</hitsound><radius>120</radius></item><item>
+			
+			
+			
+		<image>nagarebosi.png</image><sound>hoshi.wav</sound><hitsound>hoshi2.wav</hitsound></item><item>
+			
+			
+			
+		<image>ojisan.png</image><sound>ojisan2.wav</sound><radius>35</radius></item><item>
+			
+			
+			
+			
+		<image>petbottle.png</image><sound>petbottle.wav</sound><hitsound>petbottle.wav</hitsound><radius>45</radius></item><item>
+			
+			
+			
+			
+		<image>petbottle_2.png</image><sound>petbottle.wav</sound><hitsound>petbottle.wav</hitsound><radius>45</radius></item><item>
+			
+			
+			
+			
+		<image>petbottle_3.png</image><sound>petbottle.wav</sound><hitsound>petbottle.wav</hitsound><radius>45</radius></item><item>
+			
+			
+			
+			
+		<image>petbottle_4.png</image><sound>petbottle.wav</sound><hitsound>petbottle.wav</hitsound><radius>45</radius></item><item>
+			
+			
+			
+			
+		<image>toiletpaper.png</image><sound>ha.wav</sound><hitsound>ha.wav</hitsound><radius>46</radius></item><item>
+			
+			
+			
+		<image>ufo_1.png</image><sound>ufo.wav</sound><hitsound>ufo2.wav</hitsound></item><item>
+			
+			
+			
+		<image>ufo_2.png</image><sound>ufo.wav</sound><hitsound>ufo2.wav</hitsound></item><item>
+			
+			
+			
+		<image>ufo_3.png</image><sound>ufo.wav</sound><hitsound>ufo2.wav</hitsound></item><item>
+			
+			
+			
+			
+		<image>uma_1.png</image><sound>horse.wav</sound><hitsound>horse.wav</hitsound><radius>128</radius></item><item>
+			
+			
+			
+			
+		<image>uma_2.png</image><sound>horse.wav</sound><hitsound>horse.wav</hitsound><radius>128</radius></item><item>
+			
+			
+			
+			
+		<image>uma_3.png</image><sound>horse.wav</sound><hitsound>horse.wav</hitsound><radius>128</radius></item><item>
+			
+			
+			
+			
+		<image>unko_1.png</image><sound>unko.wav</sound><hitsound>unko.wav</hitsound><radius>76</radius></item><item>
+			
+			
+			
+			
+		<image>unko_2.png</image><sound>unko.wav</sound><hitsound>unko.wav</hitsound><radius>76</radius></item><item>
+			
+			
+			
+			
+		<image>usi.png</image><sound>ushi.wav</sound><hitsound>ushi.wav</hitsound><radius>105</radius></item></flyingobjects><borders><projector0>30 30 994 30 994 738 30 738</projector0><projector1>30 30 994 30 994 738 30 738</projector1><projector2>30 30 994 30 994 738 30 738</projector2><projector3>57 96 963 96 994 738 41 678</projector3><projector4>30 30 994 30 994 738 30 738</projector4><projector5>30 30 994 30 994 738 30 738</projector5></borders></settings>

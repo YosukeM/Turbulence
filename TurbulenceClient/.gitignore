@@ -1,0 +1,10 @@
+.DS_Store
+
+*.xcodeproj/*
+!*.xcodeproj/project.pbxproj
+!*.xcworkspace/contents.xcworkspacedata
+
+bin/data/*
+bin/*.app
+
+!bin/data/settings.xml
